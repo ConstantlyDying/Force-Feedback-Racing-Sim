@@ -1,11 +1,17 @@
 # Force-Feedback-Racing-Sim
 A budget friendly - DIY Racing simulator, powered by an Arduino Leonardo and a beefy 500w motor!!
+
 # Pedals
 <img width="848" height="646" alt="image_2026-05-05_010524761-Photoroom" src="https://github.com/user-attachments/assets/607280ae-cd4b-45d1-86ea-5d337bb80ec0" />
 These are the pedals. Whenever a certain pedal is pressed; its corresponding potentiometer underoges rotation and sends that analog signal to the Arduino, and communicates with the sim/game.
+
 # Wheel-Base
 <img width="1182" height="655" alt="image_2026-05-05_010300429-Photoroom" src="https://github.com/user-attachments/assets/4a20c4e9-2d0c-453f-bb9d-cc0470ac3ef7" />
+Pretty straightforward. You rotate the Steering Wheel, the encoder reads the movement and sends it to the Arduino, which communicates it to the sim/game, and sends back a signal to the motor drivers, which induce a movement in the motors accordingly and moves the wheel. There you go, Force Feedback!!
 
+# Schematics
+<img width="1200" height="846" alt="image" src="https://github.com/user-attachments/assets/1221d654-0000-413d-a57d-a8271906fd18" />
+FYI: I've custom made the symbols for Arduino, BTS7960, and the Rotary Encoder:)
 
 |SR. No:        |Name:                                                      |Quantity:|Unit Price: (INR)                |Total Price:(INR)|Unit Price: (USD)                  |Total Price:(USD)|Link:                                                                                                                                                 |Merchant      |Description                                                                |
 |---------------|-----------------------------------------------------------|---------|---------------------------------|-----------------|-----------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------|
