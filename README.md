@@ -1,6 +1,7 @@
 # Force-Feedback-Racing-Sim
 A budget friendly - DIY Racing simulator, powered by an Arduino Leonardo and a beefy 500w motor!!
-<img width="848" height="646" alt="image_2026-05-05_010524761-Photoroom" src="https://github.com/user-attachments/assets/5556954c-aabb-4f3f-80f3-0197bf8ac36a" />
+<img width="848" height="646" alt="image_2026-05-05_010524761-Photoroom" src="https://github.com/user-attachments/assets/5556954c-aabb-4f3f-80f3-0197bf8ac36a" /><img width="1182" height="655" alt="image_2026-05-05_010300429-Photoroom" src="https://github.com/user-attachments/assets/39ad216c-19a8-48e4-b224-8ad9958aae52" />
+
 
 
 
