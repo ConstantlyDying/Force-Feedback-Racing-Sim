@@ -16,7 +16,7 @@ FYI: I've custom made the symbols for Arduino, BTS7960, and the Rotary Encoder:)
 
 # Firmware
 <img width="299" height="434" alt="image" src="https://github.com/user-attachments/assets/a05fe9e1-1554-4551-ae63-6679cd5cd4b2" />
-I've used EMC Lite, which is a popular firmware among the SIM Racing community. Obviously, you can use any other firmware depending on your microcontroller (I'm using an 8bit Arduino Leonardo). The firmware has all the essentials for providing proper Force Feedback, supports 3 pedals, and can handle upto 16 switches with a leonardo. You can definitely add on functionality by using other softwares like SimHub in addition to this for more immersiveness (such as: adding wind sim or rev lights).
+I've used EMC Lite, which is a popular firmware among the SIM Racing community. Obviously, you can use any other firmware depending on your microcontroller (I'm using an 8bit Arduino Leonardo). This firmware has all the essentials for providing proper Force Feedback, supports 3 pedals, and can handle upto 16 switches with a leonardo. You can definitely add on functionality by using other softwares like SimHub in addition to this for more immersiveness (such as: adding wind sim or rev lights).
 
 # Step-By-Step Build Guide
 Yep!! a fully detailed build guide :))
