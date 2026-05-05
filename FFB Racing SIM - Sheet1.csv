@@ -1,0 +1,35 @@
+SR. No:,Name:,Quantity:,Unit Price: (INR),Total Price:(INR),Unit Price: (USD),Total Price:(USD),Link:,,
+STEERING WHEEL:,,,,,,,,,
+,ELECTRONICS:,,,,,,,,
+1,24V 500W 2500RPM MY1020 EBIKE Brush Motor,1,"₹4,400.00","₹4,400.00",$46.11,$46.11,Buy MY1020 24V 500W 2750RPM DC Motor for Ebike Online at the Best Price,Self Sourced,A DC motor to drive the wheel
+2,Double BTS7960 43A H-Bridge High-Power Stepper Motor Driver,1,₹300.00,₹300.00,$3.14,$3.14,Double BTS7960 43A H-Bridge High-Power Stepper Motor Driver Module,Self Sourced,The motor driver for controlling the motor
+3,Arduino Leonardo R3 Board,1,₹500.00,₹500.00,$5.24,$5.24,Buy Leonardo R3 Board Micro-USB Online at Robu.in,Self Sourced,Microcontroller for running the firmware and integrating all components
+4,1000 PPR AB 2-Phase Optical Rotary Encoder,1,"₹2,500.00","₹2,500.00",$26.20,$26.20,Buy Orange 1000 PPR AB 2-Phase Incremental Optical Rotary Encoder at Best Price,Self Sourced,Rotary encoder for detecting turns in the steering wheel
+5,24VOLT 41AMP 1000WAT SMPS,1,"₹6,000.00","₹6,000.00",$62.87,$62.87,https://tridevpowersupply.com/product/my-tridev-24volt-41amp-1000wat-switching-power-supply-universal-regulated-transformer-ac-110v-220v-to-dc-24v-41a,Self Sourced,Main power supply to power up everything
+6,Cooling fans - 24V,2,₹150.00,₹300.00,$1.57,$3.14,A423 FS4020x24V Brushless DC Cooling Fan with 2Pin Cable for,Self Sourced,Cooling fans to dissipate heat from motor driver
+,HARDWARE:,,,,,,,,
+7,Threaded Metal rod (10mm),1,₹150.00,₹150.00,$1.57,$1.57,Sourced locally,Self Sourced,For the steering shaft
+8,Steering Wheel,1,"₹2,500.00","₹2,500.00",$26.20,$26.20,https://www.amazon.in/AUTO-MT-Tractor-13INCH-Steering/dp/B0B7BLK5XZ/ref=sr_1_2,Self Sourced,Reduces rpm of motor and provides more torque in a 1:4 ratio
+9,big timing pulley (XXL-60teeth),1,"₹7,500.00",,$78.80,,Sourced locally,Self Sourced,
+10,small timing pulley(XXL-15teeth),1,,,,,Sourced locally,Self Sourced,
+11,medium timing pulley(XL-22 teeth),2,,,,,Sourced locally,Self Sourced,Detects rotation of steering by connecting to encoder in a 1:1 ratio
+12,timing belt(XL),1,,,,,Sourced locally,Self Sourced,Connects the pulleys
+13,timing belt (XXL),1,,,,,Sourced locally,Self Sourced,
+14,"bearings (25mm OD, 10mm ID)",2,₹150.00,₹300.00,$1.57,$3.14,Sourced locally,Self Sourced,Helps the motor shaft move more smoothly
+15,Nuts (m10),10,₹10.00,₹100.00,$0.10,$1.00,Sourced locally,Self Sourced,For fastening
+16,Self drill screws,12,₹5.00,₹60.00,$0.05,$0.60,Sourced locally,Self Sourced,For fastening
+17,Wood Mount for steering shaft (10*9cm),2,,,,$0.00,Sourced locally,Self Sourced,The shaft goes here along with the bearings
+18,Wood Base (40*65cm),1,,,,$0.00,Sourced locally,Self Sourced,"Wooden base of the wheel base, for mounting everything"
+19,Nuts and Bolts (M8),10,₹20.00,₹200.00,$0.21,$2.10,Sourced locally,Self Sourced,for fastening everything
+PEDALS:,,,,,,,,,
+20,10k rotary potentiometer,3,₹30.00,₹90.00,$0.31,$0.93,Buy 10K Ohm 3Pin 15mm Shaft Potentiometer Online at Robu.in,Self Sourced,For detecting intensity of pedal press
+21,spring,3,₹200.00,₹600.00,$2.10,$6.30,Sourced locally,Self Sourced,Gives resistance in the pedals
+22,Metal L brackets (19cm),6,₹150.00,₹900.00,$1.57,$9.42,Sourced locally,Self Sourced,For a rigid pedal frame
+23,Metal L brackets set (22cm),6,₹150.00,₹900.00,$1.57,$9.42,Sourced locally,Self Sourced,
+24,Nuts and Bolts (m8),18,₹20.00,₹360.00,$0.21,$3.78,Sourced locally,Self Sourced,To fasten everything 
+25,Nuts and bolts set (m10),3,₹20.00,₹60.00,$0.21,$0.63,Sourced locally,Self Sourced,
+26,Self drill screws,10,₹5.00,₹50.00,$0.05,$0.50,Sourced locally,Self Sourced,
+27,pvc pipe (3/4inch),3,₹10.00,₹30.00,$0.10,$0.30,Sourced locally,Self Sourced,Springs are housed inside this
+28,pvc pipe (1inch),3,₹10.00,₹30.00,$0.10,$0.30,Sourced locally,Self Sourced,
+29,Machining Costs,1,₹600.00,₹600.00,$6.29,$6.29,Sourced locally,Self Sourced,"Machining, such as cutting the wood and metal pieces"
+30,Wood base (30*36cm),1,,,,,Sourced locally,Self Sourced,Wooden Base for mounting the pedals.
