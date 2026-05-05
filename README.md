@@ -1,8 +1,10 @@
 # Force-Feedback-Racing-Sim
 A budget friendly - DIY Racing simulator, powered by an Arduino Leonardo and a beefy 500w motor!!
-<img width="848" height="646" alt="image_2026-05-05_010524761-Photoroom" src="https://github.com/user-attachments/assets/5556954c-aabb-4f3f-80f3-0197bf8ac36a" /><img width="1182" height="655" alt="image_2026-05-05_010300429-Photoroom" src="https://github.com/user-attachments/assets/39ad216c-19a8-48e4-b224-8ad9958aae52" />
-
-
+# Pedals
+<img width="848" height="646" alt="image_2026-05-05_010524761-Photoroom" src="https://github.com/user-attachments/assets/607280ae-cd4b-45d1-86ea-5d337bb80ec0" />
+These are the pedals. Whenever a certain pedal is pressed; its corresponding potentiometer underoges rotation and sends that analog signal to the Arduino, and communicates with the sim/game.
+# Wheel-Base
+<img width="1182" height="655" alt="image_2026-05-05_010300429-Photoroom" src="https://github.com/user-attachments/assets/4a20c4e9-2d0c-453f-bb9d-cc0470ac3ef7" />
 
 
 |SR. No:        |Name:                                                      |Quantity:|Unit Price: (INR)                |Total Price:(INR)|Unit Price: (USD)                  |Total Price:(USD)|Link:                                                                                                                                                 |Merchant      |Description                                                                |
