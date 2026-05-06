@@ -20,7 +20,7 @@ I've used EMC Lite, which is a popular firmware among the SIM Racing community. 
 
 # Step-By-Step Build Guide
 Yep!! a fully detailed build guide :))
-
+<img width="509" height="705" alt="image" src="https://github.com/user-attachments/assets/6042377e-1198-4ce9-9e35-b4fc9ce94d42" />
 Head to [Detailed Build Guide](https://github.com/ConstantlyDying/Force-Feedback-Racing-Sim/tree/main/Detailed%20Build%20Guide) to access it!
 
 # BOM
