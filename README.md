@@ -1,5 +1,7 @@
 # Force-Feedback-Racing-Sim
 A budget friendly - DIY Racing simulator, powered by an Arduino Leonardo and a beefy 500w motor!!
+<img width="1410" height="2000" alt="FFB Racing Sim" src="https://github.com/user-attachments/assets/d07332af-fc23-45cb-8000-3e9a54706fd8" />
+
 I made this as a budget friendly alternative to popular sim wheels:), and when your doing this stuff DIY, the possibilities are endless!!, you can literally slap on Wind Sim, Rev Lights, Speedometer, H-shifter, rumble pedals and literally whatever you can think of!!
 
 # Pedals
