@@ -1,34 +1,50 @@
 # Force-Feedback-Racing-Sim
 A budget friendly - DIY Racing simulator, powered by an Arduino Leonardo and a beefy 500w motor!!
-<img width="1410" height="2000" alt="FFB Racing Sim" src="https://github.com/user-attachments/assets/d07332af-fc23-45cb-8000-3e9a54706fd8" />
+
+<img width="1410" height="2000" alt="FFB Racing Sim" src="https://github.com/user-attachments/assets/54d56fbf-1877-4cbe-944d-addc9e876953" />
 
 I made this as a budget friendly alternative to popular sim wheels:), and when your doing this stuff DIY, the possibilities are endless!!, you can literally slap on Wind Sim, Rev Lights, Speedometer, H-shifter, rumble pedals and literally whatever you can think of!!
 
 # Pedals
 <img width="848" height="646" alt="image_2026-05-05_010524761-Photoroom" src="https://github.com/user-attachments/assets/607280ae-cd4b-45d1-86ea-5d337bb80ec0" />
+
 These are the pedals. Whenever a certain pedal is pressed; its corresponding potentiometer underoges rotation and sends that analog signal to the Arduino, and communicates with the sim/game.
+
+## -IRL Build
+<img width="882" height="590" alt="image" src="https://github.com/user-attachments/assets/a122186d-8c10-4c50-bfe6-220e55fa97cf" />
+
+I didn't add the plates as there was enough area on the pedals to apply force onto them without it. You can add the plates if needed though:)
 
 # Wheel-Base
 <img width="1182" height="655" alt="image_2026-05-05_010300429-Photoroom" src="https://github.com/user-attachments/assets/4a20c4e9-2d0c-453f-bb9d-cc0470ac3ef7" />
+
 Pretty straightforward. You rotate the Steering Wheel, the encoder reads the movement and sends it to the Arduino, which communicates it to the sim/game, and sends back a signal to the motor drivers, which induces a movement in the motors accordingly and moves the wheel. There you go, Force Feedback!!
+
+## -IRL Build
+<img width="1760" height="958" alt="image" src="https://github.com/user-attachments/assets/a85f0262-4042-4086-8a56-fb53078db99d" />
+
+I've used one motor driver as that is able to handle my motor load well. You can add one more if you feel the driver is heating up a lot.
 
 # Schematics
 <img width="1200" height="846" alt="image" src="https://github.com/user-attachments/assets/1221d654-0000-413d-a57d-a8271906fd18" />
+
 FYI: I've custom made the symbols for Arduino, BTS7960, and the Rotary Encoder:)
 
 # Firmware
 <img width="299" height="434" alt="image" src="https://github.com/user-attachments/assets/a05fe9e1-1554-4551-ae63-6679cd5cd4b2" />
+
 I've used EMC Lite, which is a popular firmware among the SIM Racing community. Obviously, you can use any other firmware depending on your microcontroller (I'm using an 8bit Arduino Leonardo). This firmware has all the essentials for providing proper Force Feedback, supports 3 pedals, and can handle upto 16 switches with a leonardo. You can definitely add on functionality by using other softwares like SimHub in addition to this for more immersiveness (such as: adding wind sim or rev lights).
 
 # Step-By-Step Build Guide
 Yep!! a fully detailed build guide :))
+
 <img width="509" height="705" alt="image" src="https://github.com/user-attachments/assets/6042377e-1198-4ce9-9e35-b4fc9ce94d42" />
 
 
 Head to [Detailed Build Guide](https://github.com/ConstantlyDying/Force-Feedback-Racing-Sim/tree/main/Detailed%20Build%20Guide) to access it!
 
 # Demo
-grgr
+https://youtu.be/QV2LuhKqWK8
 
 # BOM
 |SR. No:        |Name:                                                      |Quantity:|Unit Price: (INR)                |Total Price:(INR)|Unit Price: (USD)                  |Total Price:(USD)|Link:                                                                                                                                                 |Merchant      |Description                                                                |
